@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center;">
-  <img src="image.png" alt="alt text" width="150" style="margin: 0 25px;"/>
+<div style="display: flex; justify-content: center">
+  <img src="image.png" alt="alt text" width="150" style="margin-left:25px;"/>
   <img src="image-1.png" alt="alt text" width="150" style="margin: 0 25px;"/>
   <img src="image-2.png" alt="alt text" width="150" style="margin: 0 25px;"/>
 </div>
