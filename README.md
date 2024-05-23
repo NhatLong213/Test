@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; gap: 50px;">
+<div style="display: flex; justify-content: center; gap: 100px;">
   <img src="image.png" alt="alt text" width="150"/>
   <img src="image-1.png" alt="alt text" width="150"/>
   <img src="image-2.png" alt="alt text" width="150"/>
